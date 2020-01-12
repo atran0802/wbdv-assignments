@@ -34,10 +34,8 @@ The website I chose to review is **Telus.com**. My evaulation is based on 4 cate
 
 ## 2. Accessibility
 ### Successes
-
-### Failures
-
 - accessibility test 92% (1 image doesn't have alt attribute
+### Failures
 
 ## 3. Mobile Friendliness
 ### Successes
@@ -50,12 +48,10 @@ The website I chose to review is **Telus.com**. My evaulation is based on 4 cate
 
 ## 4. Content Design
 ### Successes
-
-### Failures
-
 - Homepage displays only necessary content (products/service) to encoruage users to explore their site
 - use of white space (images are clear and vibrante to catch the eye)
 - nested drop-down menus help keep a clean screen
+### Failures
 
 
 >hello world
