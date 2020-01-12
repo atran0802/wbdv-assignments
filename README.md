@@ -5,6 +5,11 @@
 - use of white space (images are clear and vibrante to catch the eye)
 - use of white background contrast with black text (branded colours)
 - less text content (easy to scan page) includes read more button if users are interested
+- navigation bar menu items have short and relevant names (easy for users to read)
+- nested drop-down menus help keep a clean screen
+
+- call to action button is large and grabs users attention "Get Started"
+
 - hides terms and conditions
 - has differnet language options
 - Navigation top of page 
