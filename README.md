@@ -1,5 +1,5 @@
 # Assignment 1: Website Review - Telus.com - Alex Tran
-The website I chose to review is **Telus.com**. My evaulation is based on 4 categories:
+The website I chose to review is [Telus.com](https://www.telus.com/en/). My evaulation is based on 4 categories:
 
 1. Usability and User Experience
 2. Accessibility
