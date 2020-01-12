@@ -1,9 +1,10 @@
 # Assignment 1: Website Review - Telus.com - Alex Tran
 
+- Homepage displays only necessary content (products/service) to encoruage users to explore their site
 - hover feature (icon enlarge or change colour)
 - use of white space (images are clear and vibrante to catch the eye)
 - use of white background contrast with black text (branded colours)
-- less text content (easy to scan page)
+- less text content (easy to scan page) includes read more button if users are interested
 - hides terms and conditions
 - has differnet language options
 - Navigation top of page 
