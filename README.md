@@ -44,8 +44,8 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - Mobile prompts the download app feature on top of the viewport. Although it is in a location that is difficult to reach within your thumb zone, the text box is not that large to impair visibility and usability of the site.
 
 ### Failures
-- mobile search bar is not readily displayed on homepage but can be found in the hamburger menu, due to the lack of navigation top bar users are force to select hamburger menu to explore more of the site
-- looks plain and boring due to white colour background (nothing exciting/ very flat)
+- Mobile search field is not readily displayed on the homepage, but it can be found in the hamburger menu icon. Due to the lack of navigation on the top bar, users are force to select the hamburger menu to explore more within the site.
+- While viewing the site on a mobile device the overall look is very plain and flat, this is because of the use of a white background colour with text.
 
 ## 4. Content Design
 ### Successes
