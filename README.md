@@ -12,7 +12,6 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 ### Failures
 
 - hover feature (icon enlarge or change colour)
-- use of white background contrast with black text (branded colours)
 - less text content (easy to scan page) includes read more button if users are interested
 - navigation bar menu items have short and relevant names (easy for users to read)
 
@@ -34,14 +33,17 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 
 ## 2. Accessibility
 ### Successes
-- accessibility test 92% (1 image doesn't have alt attribute
+- accessibility test **92%** (1 image doesn't have alt attribute
+- use of white background contrast with black text (branded colours)
+
 ### Failures
 
 ## 3. Mobile Friendliness
 ### Successes
+- Mobile displays the exact same content as viewing from a web browser, with the exception of the navigation bar being replaced with the hamburger menu. (allows user who are familiar with site to use mobile site) no need to place time learning new features
 - mobile devices and minimize broswer window show hamburger icon for navigation
-- mobile displays same content as web browser (allows user who are familiar with site to use mobile site) no need to place time learning new features
 - mobile prompts download app feature on top of display (hard to reach with thumbs but is not large enough to impair usablity of site)
+
 ### Failures
 - mobile search bar is not readily displayed on homepage but can be found in the hamburger menu, due to the lack of navigation top bar users are force to select hamburger menu to explore more of the site
 - looks plain and boring due to white colour background (nothing exciting/ very flat)
@@ -51,6 +53,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - Homepage displays only necessary content (products/service) to encoruage users to explore their site
 - use of white space (images are clear and vibrante to catch the eye)
 - nested drop-down menus help keep a clean screen
+
 ### Failures
 
 
