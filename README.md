@@ -41,7 +41,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 ## 3. Mobile Friendliness
 ### Successes
 - Mobile displays the exact same content as viewing from a web browser, with the exception of the navigation bar being replaced with the hamburger menu. This allows users who are familiar with the site to have the same web browsering experience on their phones. It also eliminate the time spent learning new features.
-- Mobile prompts the download app feature on top of the display. Although it is in a location that is hard to reach with your thumbs, the text box is not that large to impair visibility and usability of the site.
+- Mobile prompts the download app feature on top of the viewport. Although it is in a location that is difficult to reach within your thumb zone, the text box is not that large to impair visibility and usability of the site.
 
 ### Failures
 - mobile search bar is not readily displayed on homepage but can be found in the hamburger menu, due to the lack of navigation top bar users are force to select hamburger menu to explore more of the site
@@ -56,5 +56,5 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 
 ### Failures
 
-viewport
+
 >hello world
