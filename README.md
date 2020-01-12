@@ -12,7 +12,6 @@ The website I chose to review is **Telus.com**. My evaulation is based on 4 cate
 - use of white background contrast with black text (branded colours)
 - less text content (easy to scan page) includes read more button if users are interested
 - navigation bar menu items have short and relevant names (easy for users to read)
-- nested drop-down menus help keep a clean screen
 
 - call to action button is large and grabs users attention "Get Started"
 
@@ -35,13 +34,15 @@ The website I chose to review is **Telus.com**. My evaulation is based on 4 cate
 
 ## 3. Mobile Friendliness
 - mobile devices and minimize broswer window show hamburger icon for navigation
-- mobile displays same content as web browser
-- mobile prompts download app feature on top of display
+- mobile displays same content as web browser (allows user who are familiar with site to use mobile site) no need to place time learning new features
+- mobile prompts download app feature on top of display (hard to reach with thumbs but is not large enough to impair usablity of site)
 - mobile search bar is not readily displayed on homepage but can be found in the hamburger menu, due to the lack of navigation top bar users are force to select hamburger menu to explore more of the site
+- looks plain and boring due to white colour background (nothing exciting/ very flat)
 
 ## 4. Content Design
 - Homepage displays only necessary content (products/service) to encoruage users to explore their site
 - use of white space (images are clear and vibrante to catch the eye)
+- nested drop-down menus help keep a clean screen
 ## Good
 
 ## Bad
