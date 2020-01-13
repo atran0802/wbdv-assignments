@@ -33,10 +33,11 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 
 ## 2. Accessibility
 ### Successes
-- accessibility test **92%** (1 image doesn't have alt attribute
-- use of white background contrast with black text (branded colours)
+- Lighthouse accessibility test scored **92%** for both desktop and mobile devices.
+- The site displays majority of their content on a white background with purple, green and black (branded colours) text to contrast.
 
 ### Failures
+- 1 image doesn't have a *alt attribute*.
 
 ## 3. Mobile Friendliness
 ### Successes
@@ -49,8 +50,8 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 
 ## 4. Content Design
 ### Successes
-- Homepage displays only necessary content (products/service) to encoruage users to explore their site
-- use of white space (images are clear and vibrante to catch the eye)
+- The homepage layout displays only necessary content such as products and services they provide. This encoruages users to explore their site for more detailed information if they are invested.
+- The use of ample white space allows images to be clear and vibrant which helps captures users attention.
 - nested drop-down menus help keep a clean screen
 - mobile devices and minimize broswer window show hamburger icon for navigation
 
