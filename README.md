@@ -10,7 +10,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 ### Successes
 - There is less text content displayed, which makes the site easy to read and scan for key terms. The site includes *read more* buttons after text content if users are interested in learning more.
 - The navigation bar menu items have short and relevant naming conventions, which allows user to easily read and identify when trying to navigate through the site. 
-- Each call to action button is large and unique that it grabs the users attention. Some example are *"Get Started"* and *"View This Deal"*.
+- Each call-to-action button is large and unique that it grabs the users attention. Some example are *"Get Started"* and *"View This Deal"*.
 - The hover feature is unique as it either enlarges icons or changes colour for certain tabs/buttons on the site. This tells users where their cursor is on a site and makes them want to click on certain tabs/buttons.
 - The site features differnet language options, such as English, Punjabi and Chinese. This is a great tool for users that read in a different language. Also there is a 24/7 online technical support service to assist users and clients.
 - The search bar input field has auto complete/suggestion when users first start typing. This is useful for users who prefer to search items as opposed to spending time navigating through the site to find the information they need. 
@@ -41,10 +41,11 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - The use of ample white space allows images to be clear and vibrant which helps captures users attention.
 - The site utlizes nested drop-down menus in order to help keep the site organized and tidy. With having less menu options displayed, user won't feel overwhelmed with information. They also hide their terms and conditions near the footer of the page.
 - Content is displayed in grid format throughout the site. This helps sections content in the site, as well as helps format mobile browsering.
-- The website layout is based on the same framework as other sites, making it familiar to users. It also incoporates universal icons (i.e. magniifying glass icon for search) to convey what
+- The website layout is based on the same framework as other sites, making it familiar to users. It also incoporates universal icons (i.e. Magnifying glass icon for Search bar) to convey to users what the function of the button is.
 
 ### Failures
-- 
+- Although the website shares the same framework and design as most websites, it makes it less unique or memorable for the user.
 
 ## Overview
+
 >hello world
