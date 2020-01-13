@@ -12,13 +12,11 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - The navigation bar menu items have short and relevant naming conventions, which allows user to easily read and identify when trying to navigate through the site. 
 - Each call to action button is large and unique that it grabs the users attention. Some example are *"Get Started"* and *"View This Deal"*.
 - The hover feature (icon enlarge or change colour)
+- The site features differnet language options, such as English, Punjabi and Chinese. This is a great tool for user that read in a different language. Also there is a 24/7 online technical support service to assist users and clients.
 
 ### Failures
 
 - hides terms and conditions
-- has differnet language options 
-- 24/7 online technical support
-
 - footer displays links to other areas of webpage
 
 - use of card/grid to sections things on webpage
