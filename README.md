@@ -1,5 +1,5 @@
 # Assignment 1: Website Review - Telus.com - Alex Tran
-The website I chose to review is [Telus.com](https://www.telus.com/en/). My evaulation is based on 4 categories:
+The website I chose to review is [Telus.com](https://www.telus.com/en/). My evaulation is based on **4 categories**:
 
 1. Usability and User Experience
 2. Accessibility
@@ -11,13 +11,10 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - There is less text content displayed, which makes the site easy to read and scan for key terms. The site includes *read more* buttons after text content if users are interested in learning more.
 - The navigation bar menu items have short and relevant naming conventions, which allows user to easily read and identify when trying to navigate through the site. 
 - Each call to action button is large and unique that it grabs the users attention. Some example are *"Get Started"* and *"View This Deal"*.
-- The hover feature (icon enlarge or change colour)
+- The hover feature is unique as it either enlarges icons or changes colour for certain tabs/buttons on the site. This tells users where their cursor is on a site and makes them want to click on certain tabs/buttons.
 - The site features differnet language options, such as English, Punjabi and Chinese. This is a great tool for user that read in a different language. Also there is a 24/7 online technical support service to assist users and clients.
 
 ### Failures
-
-- hides terms and conditions
-- footer displays links to other areas of webpage
 
 - use of card/grid to sections things on webpage
 
@@ -49,6 +46,8 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - The site utlizes nested drop-down menus in order to help keep a clean screen
 - mobile devices and minimize broswer window show hamburger icon for navigation
 - website is layout based on the familiar and uses universal icons (magniifying glass icon for search)
+- hides terms and conditions
+- footer displays links to other areas of webpage
 
 ### Failures
 
