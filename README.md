@@ -10,7 +10,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 ### Successes
 - There is less text content displayed, which makes the site easy to read and scan for key terms. The site includes *read more* buttons after text content if users are interested in learning more.
 - The navigation bar menu items have short and relevant naming conventions, which allows user to easily read and identify when trying to navigate through the site. 
-- Each call to action button is large and unique that it grabs the users attention. For example "Get Started"
+- Each call to action button is large and unique that it grabs the users attention. Some example are *"Get Started"* and *"View This Deal"*.
 - The hover feature (icon enlarge or change colour)
 
 ### Failures
