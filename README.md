@@ -29,7 +29,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My eval
 ## 3. Mobile Friendliness
 ### Successes
 - Mobile displays the exact same content as viewing from a web browser, with the exception of the navigation bar being replaced with the hamburger menu. This allows users who are familiar with the site to have the same web browsing experience on their phones. It also eliminate the time spent learning new features.
-- Mobile prompts the download app feature on top of the viewport. Although it is in a location that is difficult to reach within your thumb zone, the text box is not that large to impair visibility and usability of the site. As stated by [Jenny Gove](https://developers.google.com/web/fundamentals/design-and-ux/principles/?hl=en)
+- Mobile prompts the download app feature on top of the viewport. Although it is in a location that is difficult to reach within your thumb zone, the text box is not that large to impair visibility and usability of the site. As stated by [Jenny Gove](https://developers.google.com/web/fundamentals/design-and-ux/principles/?hl=en) from the article ['What Makes a Good Mobile Site?'](https://developers.google.com/web/fundamentals/design-and-ux/principles/?hl=en)
 >DO: Promotions should be easily dismissable and not distract from the experience.
 >
 >DON'T: Interstitials (sometimes called door slams) often annoy users and make using the site a pain.
