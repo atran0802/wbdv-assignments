@@ -8,10 +8,10 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 
 ## 1. Usability and User Experience
 ### Successes
-- less text content (easy to scan page) includes read more button if users are interested
+- There is less text content, which makes the site easy to read and scan. The site includes *read more* buttons if users are interested in learning more.
 - The navigation bar menu items have short and relevant naming conventions, which allows user to easily read and identify.
 - The call to action button is large and grabs users attention "Get Started"
-- hover feature (icon enlarge or change colour)
+- The hover feature (icon enlarge or change colour)
 
 ### Failures
 
@@ -50,7 +50,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - The use of ample white space allows images to be clear and vibrant which helps captures users attention.
 - The site utlizes nested drop-down menus in order to help keep a clean screen
 - mobile devices and minimize broswer window show hamburger icon for navigation
-- website is layout based on the familiar (magniifying glass icon for search)
+- website is layout based on the familiar and uses universal icons (magniifying glass icon for search)
 
 ### Failures
 
