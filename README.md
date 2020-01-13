@@ -47,4 +47,4 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My eval
 - Although the website shares the same framework and design as most websites, it makes it less unique or memorable for the user.
 
 ## Summary
->Overall [Telus.com](https://www.telus.com/en/) is a great website that is easy to navigate and visually appealing.
+>Overall, [Telus.com](https://www.telus.com/en/) is a great website that is easy to navigate and visually appealing.
