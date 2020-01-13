@@ -8,18 +8,15 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 
 ## 1. Usability and User Experience
 ### Successes
+- less text content (easy to scan page) includes read more button if users are interested
+- The navigation bar menu items have short and relevant naming conventions, which allows user to easily read and identify.
+- The call to action button is large and grabs users attention "Get Started"
+- hover feature (icon enlarge or change colour)
 
 ### Failures
 
-- hover feature (icon enlarge or change colour)
-- less text content (easy to scan page) includes read more button if users are interested
-- navigation bar menu items have short and relevant names (easy for users to read)
-
-- call to action button is large and grabs users attention "Get Started"
-
 - hides terms and conditions
-- has differnet language options
-- Navigation top of page 
+- has differnet language options 
 - 24/7 online technical support
 
 - footer displays links to other areas of webpage
@@ -27,7 +24,6 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - use of card/grid to sections things on webpage
 
 - search bar input field has auto complete
-- website is layout based on the familiar (magniifying glass icon for search) 
 
 - website features products and services that they provide and also offers support/help
 
@@ -52,8 +48,9 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 ### Successes
 - The homepage layout displays only necessary content such as products and services they provide. This encoruages users to explore their site for more detailed information if they are invested.
 - The use of ample white space allows images to be clear and vibrant which helps captures users attention.
-- nested drop-down menus help keep a clean screen
+- The site utlizes nested drop-down menus in order to help keep a clean screen
 - mobile devices and minimize broswer window show hamburger icon for navigation
+- website is layout based on the familiar (magniifying glass icon for search)
 
 ### Failures
 
