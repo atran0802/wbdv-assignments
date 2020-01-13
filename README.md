@@ -16,7 +16,7 @@ The website I chose to review is [Telus.com](https://www.telus.com/en/). My evau
 - The search bar input field has auto complete/suggestion when users first start typing. This is useful for users who prefer to search items as opposed to spending time navigating through the site to find the information they need. 
 
 ### Failures
-- 
+- While browsering through some of the nested drop-down menus from the main navigation bar, a destination path would appear. This felt unnecessary for me as I only selected a few tabs. It also made the top portion of the screen feel cluttered and redundant as the same text would be displayed twice.
 
 ## 2. Accessibility
 ### Successes
