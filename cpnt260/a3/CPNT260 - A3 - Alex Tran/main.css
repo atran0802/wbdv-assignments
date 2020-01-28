@@ -14,7 +14,7 @@ body {
 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 225px 2fr auto;
+  grid-template-rows: 225px 40px 2fr auto;
   }
 
 #nav-bar {
@@ -29,7 +29,7 @@ body {
   }
 
 .fas {
-  margin: 10px 0 10px 40px;
+  margin: 10px 40px;
   }
 
 ul {
@@ -85,7 +85,7 @@ a:visited {
   border-radius: 20px;
   
   grid-column: 2 / 3;
-  grid-row: 3 / 4;
+  grid-row: 4 / 5;
   }
 
 .btn:hover {
@@ -95,7 +95,7 @@ a:visited {
 
 form {
   grid-column: 2 / 3;
-  grid-row: 2 / 3;
+  grid-row: 2 / 4;
   
   justify-self: center;
   align-self: center;
@@ -104,7 +104,7 @@ form {
 fieldset {
   border: 0;
   max-width: 500px;
-  min-width: 25ch;
+  min-width: 30ch;
   margin: auto;
 
   padding: 2rem;
@@ -142,4 +142,12 @@ button {
 
 button:hover {
   color: #0D5149;
+  }
+
+.overlap {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+
+  justify-self: center;
+  align-self: end;
   }
