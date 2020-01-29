@@ -1,0 +1,5 @@
+- Avoid using spaces and capital letters in your directory names.
+- The layout breaks differently in Chrome than Firefox.
+- Great commenting!
+- Both elements need to be explicitly placed on the grid for overlapping to work. `.card-background` need `grid-row` and `grid-column` set.
+- Only one grid column is needed for this design since everything can be centred.
