@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Portfolio Website - Alex Tran</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <script src="https://kit.fontawesome.com/ed8c4e86ed.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <main>
+    <nav id="nav-bar">
+      <a href="#"><i class="fas fa-torii-gate" style="font-size: 80px;color:#fff;"></i></a>
+            
+      <ul>
+        <li><a href="https://www.facebook.com/"><i class="fab fa-facebook" style="font-size:40px;color:#fff;"></i></a></li>
+        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram" style="font-size:40px;color:#fff;"></i></a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#highlights">Highlights</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <header>
+      <h1>Travel with me through<span style="display: block; font-size: 200px;">Japan</span></h1>    
+    </header>
+
+    <article id="about">
+      <img src="assets/IMG_3390.JPG" class="about-img" alt="Star wars samurai figurines" width="400" height="600">
+      <h2>About</h2>
+      <p>Welcome to my Website, this site features content from my trip to Japan in summer 2018. Japan has always been a country that I wanted to visit, due to their culture, rich history, and technological advances. I spent most of my time eating delicious foods and traveling to many different temples and shrines. Everyday felt like a new adventure from meeting someone new to seeing all the spectacular sights. Overall, my trip to Japan has been one of the most memorable experience in my life.</p>
+    </article>
+
+    <section id="highlights">
+      <div class="cards">
+        <div class="card">
+          <img src="assets/IMG_3398.JPG" alt="Sensō-ji Temple" width="600" height="400">
+          <p>Sensō-ji Temple</p>
+        </div>
+      </div>  
+      <div class="cards">
+        <div class="card">
+          <img src="assets/IMG_3395.JPG" alt="Meiji Jingu Shrine sake barrels" width="600" height="400">
+          <p>Meiji Jingu Shrine sake barrels</p>
+        </div>
+      </div>  
+      <div class="cards">  
+        <div class="card">
+          <img src="assets/IMG_3401.JPG" alt="Edo Tokyo Museum exhibits" width="600" height="400">
+          <p>Edo Tokyo Museum exhibits</p>
+        </div>
+      </div>
+    </section>
+
+    <div id="gallery">
+      <figure class="gallery-img">
+        <img src="assets/IMG_3416.JPG" alt="Heian Shrine water basin (chōzubachi)" width="400" height="600">
+        <img src="assets/IMG_3399.JPG" alt="Miniature food stand display" width="400" height="600">
+        <img src="assets/IMG_3418.JPG" alt="2 lion statue" width="400" height="600">
+        <img src="assets/IMG_3417.JPG" alt="Namba Yasaka Shrine" width="400" height="600">
+        <img src="assets/IMG_3394.JPG" alt="Meiji Jingu Shrine gate" width="400" height="600">
+        <img src="assets/IMG_3393.JPG" alt="Meiji Jingu Shrine gate water basin (chōzubachi)" width="400" height="600">
+        <img src="assets/IMG_0597.JPG" alt="Sumo wrestlers figurine display" width="400" height="600">
+        <img src="assets/IMG_3428.JPG" alt="Gundam statue" width="400" height="600">
+      </figure>
+    </div>
+
+    <form action="https://formspree.io/xpzdqllr" method="post">
+      <fieldset id="contact">
+        <div class="grid">
+          <label for="name">Name</label>
+          <input type="text" name="name" id="name" placeholder="Enter Name" required>
+
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" placeholder="Enter Email" required>
+        
+          <label>Message</label>
+          <textarea name="message" rows="4" cols="50" placeholder="Enter Message"></textarea>
+
+          <button type="submit">Send</button>
+        </div>
+      </fieldset>
+    </form>
+  </main>     
+</body>
+</html>
